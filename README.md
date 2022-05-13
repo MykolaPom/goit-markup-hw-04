@@ -1,5 +1,6 @@
-# goit-markup-hw-03
+# goit-markup-hw-04
 
 What's new?
-- markkup mistakes fixed;
-- positioning using Flexbox performed.
+- background added;
+- svg icons added;
+- box-shadows added.
